@@ -39,3 +39,14 @@ If you get an error when using the links below, try using winsettings.pages.dev 
 * Storage > Storage Sense: https://ws.thepwrtank18.xyz/system/storagepolicies
 * Storage: https://ws.thepwrtank18.xyz/system/storagesense
 * Tablet mode: https://ws.thepwrtank18.xyz/system/tabletmode
+
+## Devices
+Autoplay: https://ws.thepwrtank18.xyz/system/autoplay
+Bluetooth: https://ws.thepwrtank18.xyz/system/devices
+Mouse**: https://ws.thepwrtank18.xyz/system/mouse
+Time and language > Typing: https://ws.thepwrtank18.xyz/system/devicestyping-hwkbtextsuggestions
+Mouse: https://ws.thepwrtank18.xyz/system/mousetouchpad
+Pen and Windows Ink: https://ws.thepwrtank18.xyz/system/pen
+Printers and scanners: https://ws.thepwrtank18.xyz/system/printers
+USB: https://ws.thepwrtank18.xyz/system/usb
+Wheel**: https://ws.thepwrtank18.xyz/system/wheel
