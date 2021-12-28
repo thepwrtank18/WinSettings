@@ -43,7 +43,7 @@ If you get an error when using the links below, try using winsettings.pages.dev 
 ## Devices
 * Autoplay: https://ws.thepwrtank18.xyz/devices/autoplay
 * Bluetooth: https://ws.thepwrtank18.xyz/devices/devices
-* Mouse**: https://ws.thepwrtank18.xyz/devices/mouse
+* Mouse**: https://ws.thepwrtank18.xyz/devices/devices-touchpad
 * Time and language > Typing: https://ws.thepwrtank18.xyz/devices/devicestyping-hwkbtextsuggestions
 * Mouse: https://ws.thepwrtank18.xyz/devices/mousetouchpad
 * Pen and Windows Ink: https://ws.thepwrtank18.xyz/devices/pen
