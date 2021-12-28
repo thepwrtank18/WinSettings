@@ -50,3 +50,8 @@ If you get an error when using the links below, try using winsettings.pages.dev 
 * Printers and scanners: https://ws.thepwrtank18.xyz/devices/printers
 * USB: https://ws.thepwrtank18.xyz/devices/usb
 * Wheel**: https://ws.thepwrtank18.xyz/devices/wheel
+
+## Phone
+Your Phone: https://ws.thepwrtank18.xyz/phone/mobile-devices
+Your Phone*: https://ws.thepwrtank18.xyz/phone/mobile-devices-addphone
+Your Phone*: https://ws.thepwrtank18.xyz/phone/mobile-devices-addphone-direct
