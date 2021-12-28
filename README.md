@@ -36,6 +36,6 @@ If you get an error when using the links below, try using winsettings.pages.dev 
 * Display*: https://ws.thepwrtank18.xyz/system/screenrotation
 * Sound: https://ws.thepwrtank18.xyz/system/sound
 * Sound > All sound devices: https://ws.thepwrtank18.xyz/system/sound-devices
-* Storage > Storage Sense: https:/ws.thepwrtank18.xyz/system/storagepolicies
+* Storage > Storage Sense: https://ws.thepwrtank18.xyz/system/storagepolicies
 * Storage: https://ws.thepwrtank18.xyz/system/storagesense
 * Tablet mode: https://ws.thepwrtank18.xyz/system/tabletmode
