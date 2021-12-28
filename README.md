@@ -41,12 +41,12 @@ If you get an error when using the links below, try using winsettings.pages.dev 
 * Tablet mode: https://ws.thepwrtank18.xyz/system/tabletmode
 
 ## Devices
-* Autoplay: https://ws.thepwrtank18.xyz/system/autoplay
-* Bluetooth: https://ws.thepwrtank18.xyz/system/devices
-* Mouse**: https://ws.thepwrtank18.xyz/system/mouse
-* Time and language > Typing: https://ws.thepwrtank18.xyz/system/devicestyping-hwkbtextsuggestions
-* Mouse: https://ws.thepwrtank18.xyz/system/mousetouchpad
-* Pen and Windows Ink: https://ws.thepwrtank18.xyz/system/pen
-* Printers and scanners: https://ws.thepwrtank18.xyz/system/printers
-* USB: https://ws.thepwrtank18.xyz/system/usb
-* Wheel**: https://ws.thepwrtank18.xyz/system/wheel
+* Autoplay: https://ws.thepwrtank18.xyz/devices/autoplay
+* Bluetooth: https://ws.thepwrtank18.xyz/devices/devices
+* Mouse**: https://ws.thepwrtank18.xyz/devices/mouse
+* Time and language > Typing: https://ws.thepwrtank18.xyz/devices/devicestyping-hwkbtextsuggestions
+* Mouse: https://ws.thepwrtank18.xyz/devices/mousetouchpad
+* Pen and Windows Ink: https://ws.thepwrtank18.xyz/devices/pen
+* Printers and scanners: https://ws.thepwrtank18.xyz/devices/printers
+* USB: https://ws.thepwrtank18.xyz/devices/usb
+* Wheel**: https://ws.thepwrtank18.xyz/devices/wheel
