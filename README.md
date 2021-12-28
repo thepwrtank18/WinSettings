@@ -52,6 +52,19 @@ If you get an error when using the links below, try using winsettings.pages.dev 
 * Wheel**: https://ws.thepwrtank18.xyz/devices/wheel
 
 ## Phone
-Your Phone: https://ws.thepwrtank18.xyz/phone/mobile-devices
-Your Phone*: https://ws.thepwrtank18.xyz/phone/mobile-devices-addphone
-Your Phone*: https://ws.thepwrtank18.xyz/phone/mobile-devices-addphone-direct
+* Your Phone: https://ws.thepwrtank18.xyz/phone/mobile-devices
+* Your Phone*: https://ws.thepwrtank18.xyz/phone/mobile-devices-addphone
+* Your Phone*: https://ws.thepwrtank18.xyz/phone/mobile-devices-addphone-direct
+
+## Accounts
+* Family and other users > Kiosk: https://ws.thepwrtank18.xyz/accounts/assignedaccess
+* Email and accounts: https://ws.thepwrtank18.xyz/accounts/emailandaccounts
+* Family and other users: https://ws.thepwrtank18.xyz/accounts/otherusers
+* Sign-in options: https://ws.thepwrtank18.xyz/accounts/signinoptions
+* Sign-in options*: https://ws.thepwrtank18.xyz/accounts/signinoptions-dynamiclock
+* Sign-in options > Windows Hello (Face): https://ws.thepwrtank18.xyz/accounts/signinoptions-launchfaceenrollment
+* Sign-in options > Windows Hello (Fingerprint): https://ws.thepwrtank18.xyz/accounts/signinoptions-launchfingerprintenrollment
+* Sign-in options > Windows Hello (Security key): https://ws.thepwrtank18.xyz/accounts/signinoptions-launchsecuritykeyenrollment
+* Windows backup: https://ws.thepwrtank18.xyz/accounts/sync
+* Access work or school: https://ws.thepwrtank18.xyz/accounts/workplace
+* Your info: https://ws.thepwrtank18.xyz/accounts/yourinfo
