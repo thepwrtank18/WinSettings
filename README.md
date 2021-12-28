@@ -11,6 +11,7 @@ If you get an error when using the links below, try using winsettings.pages.dev 
 **These don't work in Windows 11 for some reason
 
 ## System
+* Main menu: https://ws.thepwrtank18.xyz/home
 * About: https://ws.thepwrtank18.xyz/system/about
 * Sound > Volume mixer: https://ws.thepwrtank18.xyz/system/apps-volume
 * Power: https://ws.thepwrtank18.xyz/system/batterysaver
