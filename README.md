@@ -3,7 +3,9 @@ URL's to go to specific Windows Settings pages.
 
 ## System
 (For reference, all of these are sorted by URL, A-Z)
+
 *These seemingly go to the same page as the one that has the non * title, at least on Windows 11
+
 **These don't work in Windows 11 for some reason
 * About: https://thepwrtank18.github.io/system/about.html
 * Sound > Volume mixer: https://thepwrtank18.github.io/system/apps-volume.html
